@@ -1,0 +1,19 @@
+{
+  "name": "text-writer",
+  "version": "0.1.0",
+  "description": "ES6 text writer",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnSmithDr/text-writer.git"
+  },
+  "author": "johnsmith1st <johnsmith1st@live.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JohnSmithDr/text-writer/issues"
+  },
+  "homepage": "https://github.com/JohnSmithDr/text-writer#readme"
+}
