@@ -5,7 +5,9 @@ ES6 text writer.
 # Example
 
 ```JavaScript
-var str = TextWriter
+let TextWriter = require('text-writer');
+
+let text = TextWriter
   .create()
   .write('Lorem ipsum dolor sit amet, ')
   .writeFormat('consectetur %s elit, ', 'adipisicing')
